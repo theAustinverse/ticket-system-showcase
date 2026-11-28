@@ -64,7 +64,7 @@
 3. [專案的框架及流程圖](docs/03-architecture.md)
 4. [專案的更新日誌與完整紀錄](docs/04-changelog.md)
 5. [實作專案後的心得](docs/05-reflection.md)
-6. [系統還可以改良的地方（自我檢視）](docs/06-improvements.md)
+6. [未來可以優化和調整的地方](docs/06-improvements.md)
 
 ## 技術組成
 
